@@ -76,3 +76,4 @@ jobs:  # Telling what jobs we need to happen
           git_release_notes: true
           include_git_commit_id: false
           notify: true
+
